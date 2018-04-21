@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuideViewDemo</string>
+    <string name="bad_badtz_maru">酷企鵝\n性別：男\n生日：4月1日\n特技：仗義直言</string>
+    <string name="the_tmurfs">藍色小精靈\n性別：男\n生日：未知\n特技：木匠</string>
+    <string name="chopper">喬巴\n性別：男\n生日：12月24日\n特技：醫術</string>
+</resources>
