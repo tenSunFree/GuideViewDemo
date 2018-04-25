@@ -15,9 +15,5 @@ https://github.com/easilycoder/GuideView
   <img src="https://i.imgur.com/ynDdY4t.jpg" width="260"/>
   <img src="https://i.imgur.com/hfEl8zw.jpg" width="260"/>
   <img src="https://i.imgur.com/Tqp5w0k.jpg" width="260"/>
-</p>                                 
-
-
-
-# 
+</p>  
 
